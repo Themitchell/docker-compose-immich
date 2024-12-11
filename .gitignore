@@ -1,0 +1,6 @@
+*.env
+data/immich/*
+!data/immich/.gitkeep
+
+data/postgres/*
+!data/postgres/.gitkeep
